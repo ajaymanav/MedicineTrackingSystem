@@ -1,0 +1,58 @@
+[
+  {
+    "MedicineName": "Montek LC",
+    "Brand": "Cipla",
+    "Price": 100,
+    "Quantity": 1,
+    "ExpiryDate": "12/31/2021",
+    "Notes": "Allergic Tablet"
+  },
+  {
+    "MedicineName": "Montek LC",
+    "Brand": "Cipla",
+    "Price": 100,
+    "Quantity": 1,
+    "ExpiryDate": "12/31/2021",
+    "Notes": "Allergic Tablet"
+  },
+  {
+    "MedicineName": "Montek LC1",
+    "Brand": "Cipla1",
+    "Price": 100,
+    "Quantity": 2,
+    "ExpiryDate": "12/31/2021",
+    "Notes": "Tablet1"
+  },
+  {
+    "MedicineName": "Montek LC2",
+    "Brand": "Cipla1",
+    "Price": 200,
+    "Quantity": 10,
+    "ExpiryDate": "12/31/2020",
+    "Notes": "Tablet2"
+  },
+  {
+    "MedicineName": "test",
+    "Brand": "asda",
+    "Price": 234.0,
+    "Quantity": 34,
+    "ExpiryDate": "2020-06-17",
+    "Notes": "ewrwe"
+  },
+  {
+    "MedicineName": "xcvx",
+    "Brand": "rwer",
+    "Price": 45.0,
+    "Quantity": 34,
+    "ExpiryDate": "2020-07-09T16:27:00",
+    "Notes": "dfsd"
+  },
+  {
+    "MedicineName": "sdfsd",
+    "Brand": "sds",
+    "Price": 12.0,
+    "Quantity": 56,
+    "ExpiryDate": "2020-06-11T16:47:00",
+    "Notes": "Notes"
+  }
+]
